@@ -1,5 +1,5 @@
 public class One {
-    public static void devisionByZero(String[] args) {
+    public static void devisionByZero() {
         int n = 256 / 0;
         System.out.println(n);
     }
